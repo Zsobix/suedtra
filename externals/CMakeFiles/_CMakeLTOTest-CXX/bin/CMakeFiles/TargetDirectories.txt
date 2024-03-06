@@ -1,0 +1,4 @@
+/home/zsombi/citra/externals/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/zsombi/citra/externals/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/zsombi/citra/externals/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/zsombi/citra/externals/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

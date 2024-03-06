@@ -1,0 +1,1 @@
+/usr/bin/cc  -idirafter "/home/zsombi/citra/externals/sdl2/SDL/src/video/khronos"  -D_GNU_SOURCE=1 CMakeFiles/cmTC_17054.dir/CheckSymbolExists.c.o -o cmTC_17054 
