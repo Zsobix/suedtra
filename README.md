@@ -1,10 +1,5 @@
-<h1 align="center">
-  <br>
-  <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
-  <br>
-  <b>Citra</b>
-  <br>
-</h1>
+#suedtra
+citra's (actually buildable) fork
 
 <h4 align="center"><b>Citra</b> is the world's most popular, open-source, Nintendo 3DS emulator.
 <br>
